@@ -1,0 +1,8 @@
+2-f)¿Puede ver el archivo tp2_1_2.c?¿Por que?
+si puedo verlo, porque son archivos creados en el mismo repositorio, pero internamente estas en ramas diferentes.
+
+vuelve a ejecutar el comando gitk --all ¿Que diferencia nota?
+La primera ve que ejecute el comando me aparecia las dos ramas en una linea, ahora me aparecen una abajo de la otra, es como que las diferencio mas.
+
+Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+me aparece las ramas combinadas
